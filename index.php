@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>Resume - Mitchell Ludwig</title>
+    <title>Resume - David Stevens</title>
     <!-- Hi! So you've decided to take a peek at the code. Awesome! I've kept everything purposefully unminified, so that you can look at the code, and easily understand the structure. -->
     <!-- If you're familiar with GitHub, you can take a closer look at the code by checking out the repo: https://github.com/maludwig/resume -->
     <script src="js/ie-redirect.js"></script><!-- redirect IE9 and under to the sympathy page -->
@@ -27,8 +27,8 @@
 <body>
     <div id="container">
         <header>
-            <h1>Mitchell Ludwig</h1>
-            <h3><a href="tel:4034793269">403-479-3269</a> &nbsp;&nbsp;&nbsp; <a href="mailto:mitchell.ludwig@gmail.com">mitchell.ludwig@gmail.com</a></h3>
+            <h1>David Stevens</h1>
+            <h3><a href="tel:4033895101">403-389-5101</a> &nbsp;&nbsp;&nbsp; <a href="mailto:mitchell.ludwig@gmail.com">mitchell.ludwig@gmail.com</a></h3>
         </header>
         <div id="content">
             <section>
